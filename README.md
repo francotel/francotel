@@ -16,7 +16,7 @@ From very early on in my life, I started to fall in love with technology. This l
 <p align="left"> <samp>
 - 👨🏽‍💻 I’m currently working on [Fandango](https://www.fandango.lat);<br>
 - 🌱 I’m currently learning data migration and multi plataform;<br>
-- 🔭 I’m looking to collaborate on any project open source 🤝;<br>
+- 🔭 I’m looking to collaborate on any open source project🤝;<br>
 - 💬 Ask me about anything especially about tech, movies, series I am happy to help;<br>
 
 ### Languages and Tools:
