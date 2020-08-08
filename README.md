@@ -10,7 +10,7 @@
 </p>
 
 ### About me
-<p align="left"> <samp>Hi, My name is Franco Navarro. I am a telecommunications engineering university student from the Pontificia Universidad Católica del Perú focused on the cloud computing and web services. Beside's infrastructure and programming building, I enjoy traveling and watching movies.
+<p align="left"> <samp>Hi, My name is Franco Navarro. I am a telecommunications engineering university student from the Pontificia Universidad Católica del Perú focused on the cloud computing and web services. Besides infrastructure and programming building, I enjoy traveling and watching movies.
 From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.
 
 <p align="left"> <samp>
