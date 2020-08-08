@@ -19,13 +19,13 @@ From very early on in my life, I started to fall in love with technology. This l
 - 🔭 I’m looking to collaborate on any project open source 🤝;<br>
 - 💬 Ask me about anything especially about tech, movies, series I am happy to help;<br>
 
-## Languages and Tools:
+### Languages and Tools:
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="francotel's github stats" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&&title_color=fff&icon_color=15edfd&text_color=9f9f9f&bg_color=151515" />
+    <img width="55%" align="right" alt="francotel's github stats" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
