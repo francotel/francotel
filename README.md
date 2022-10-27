@@ -14,7 +14,6 @@
 From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.</p>
 
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 
 <p align="left">
 - 👨🏽‍💻 I’m currently working on [Globant](https://www.globant.com) as **Sr. DevOps Engineer**<br>
