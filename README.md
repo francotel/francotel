@@ -13,8 +13,6 @@
 <p align="left">Hi, My name is Franco Navarro. I am a telecommunications engineering university student from the Pontificia Universidad Católica del Perú focused on cloud computing and web services. Besides infrastructure and programming building, I enjoy traveling and watching movies.
 From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.</p>
 
-&nbsp;&nbsp;
-
 <p align="left">
 - 👨🏽‍💻 I’m currently working on [Globant](https://www.globant.com) as **Sr. DevOps Engineer**<br>
 - 🌱 I’m currently learning multi cloud plataform and security pipelines;<br>
