@@ -6,7 +6,8 @@
 <a href="https://github.com/francotel"><img src="https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="mailto:franco.navarrotel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23d44638.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://dev.to/francotel"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>
+<a href="https://dev.to/francotel"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/francotel"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 
 ### About me
@@ -50,10 +51,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 #### 🧾 Certifications I have Accomplished
 <p align="left">
-- AWS Certified Solutions Architect Associate<br>
-- AWS Certified Cloud Practitioner<br>
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner" width="150" height="150"/>
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" alt="AWS SysOps Administrator" width="150" height="150"/>
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
+<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png" alt="AWS DevOps Engineer" width="150" height="150"/>
+<img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" alt="Terraform Associate" width="150" height="150"/>
 </p>
-
 
 <!-- - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
 
@@ -97,7 +100,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 #### Cloud Plataform
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/>
+<img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="aws" title="aws" width="60" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="aws" title="aws" width="40" height="40"/>
 </p>
 
@@ -121,8 +124,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 </p>
 
-<p align="center">
-<img width="55%" alt="francotel's github stats" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&hide_border=true"/>
-</p>
+<a href="https://github.com/francotel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&hide_border=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Francotel's github stats" /></a> | <a href="https://github.com/francotel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotel&layout=compact&theme=nightowl&hide_border=true" /></a>
+
+<br />
+
+If you like what i do, maybe consider buying me a coffee 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/francotel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ![Made with love in Peru](https://madewithlove.now.sh/pe?template=for-the-badge)
