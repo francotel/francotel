@@ -124,7 +124,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 </p>
 
-<a href="https://github.com/francotel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&hide_border=true&include_all_commits=true&theme=merko&hide_border=true" alt="Francotel's github stats" /></a> | <a href="https://github.com/francotel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotel&layout=compact&theme=merko&hide_border=true" /></a>
+<a href="https://github.com/francotel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=francotel&show_icons=true&hide_border=true&include_all_commits=true&theme=faded_blue&hide_border=true" alt="Francotel's github stats" /></a> | <a href="https://github.com/francotel/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francotel&layout=compact&theme=faded_blue&hide_border=true" /></a>
 
 <br />
 
