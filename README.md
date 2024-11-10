@@ -15,10 +15,10 @@
 From very early on in my life, I started to fall in love with technology. This love has helped me develop a very good technological mindset, and given me the curiosity to learn more.</p>
 
 <p align="left">
-- 👨🏽‍💻 I’m currently working on [Globant](https://www.globant.com) as **Sr. DevOps Engineer**<br>
-- 🌱 I’m currently learning multi cloud plataform and security pipelines;<br>
-- 🔭 I’m looking to collaborate on any open source project🤝;<br>
-- 💬 Ask me about anything especially about tech, movies, series I am happy to help;<br>
+- 👨🏽‍💻 I’m currently working on [Orion Global](https://orion.global) as Sr. DevOps Engineer<br>
+- 🌱 I’m currently learning multi cloud plataform and security pipelines<br>
+- 🔭 I’m looking to collaborate on any open source project🤝<br>
+- 💬 Ask me about anything especially about tech, movies, series I am happy to help<br>
 </p>
 
 <!-- ##### 👨‍💻 Some of the projects I have worked recently
@@ -55,7 +55,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" alt="AWS SysOps Administrator" width="150" height="150"/>
 <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Solutions Architect Associate" width="150" height="150"/>
 <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Data-Engineer-Associate_badge_300x300.a231ff0ff32a28adf061d3f7fa36564964b4a4b5.png" alt="AWS DevOps Engineer" width="150" height="150"/>
+<img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Goocle Cloud Engineer Associate" width="145" height="145"/>
 <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" alt="Terraform Associate" width="145" height="145"/>
+
 </p>
 
 <!-- - 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
