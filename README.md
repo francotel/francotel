@@ -58,7 +58,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-DevOps-Engineer-Professional_badge.7492bf660b5351e51f3f8015e4818924294a7e8c.png" alt="AWS Devops Enginner Professional" width="150" height="150"/>
 <img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Goocle Cloud Engineer Associate" width="145" height="145"/>
 <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" alt="Terraform Associate" width="145" height="145"/>
-<img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" alt="Terraform Associate" width="145" height="145"/>
+<img src="projects/francotel/images/oci-foundations.png" alt="Terraform Associate" width="145" height="145"/>
 
 </p>
 
